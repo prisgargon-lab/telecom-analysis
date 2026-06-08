@@ -2,7 +2,7 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto tiene como objetivo analizar el comportamiento de uso de los clientes de ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
+Este proyecto tiene como objetivo analizar el comportamiento de uso de los clientes de ConnectaTel.
 
 A partir de información sobre clientes, planes contratados y uso real de servicios móviles (llamadas y mensajes), se realizó un proceso completo de exploración, limpieza, análisis y segmentación de usuarios para identificar patrones de comportamiento y generar recomendaciones de negocio.
 
